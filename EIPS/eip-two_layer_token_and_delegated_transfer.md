@@ -1,7 +1,7 @@
 ## Preamble
 
     EIP: <to be assigned>
-    Title: Two-level Token and Delegated Transfer
+    Title: Two Layer Token and Delegated Transfer
     Author: Wang Wei <tenderice@gmail.com>, Cai Yi <yee.tsai@gmail.com>, Meng Yan <meng.yan@me.com>
     Type: Standard Track
     Category ERC
