@@ -9,7 +9,6 @@
     Created: 2018-02-28
     Requires: EIP-20
 
-The title should be 44 characters or less.
 
 ## Simple Summary
 "If you can't explain it simply, you don't understand it well enough." Provide a simplified and layman-accessible explanation of the EIP.
@@ -19,6 +18,9 @@ A short (~200 word) description of the technical issue being addressed.
 
 ## Motivation
 The motivation is critical for EIPs that want to change the Ethereum protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the EIP solves. EIP submissions without sufficient motivation may be rejected outright.
+
+There are many scenarios that 
+1.Give the ability to certain organization to manage token creation, simplify the process of creating tokens from writing eip-20 contracts. 
 
 ## Specification
 The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current Ethereum platforms (cpp-ethereum, go-ethereum, parity, ethereumj, ethereumjs, ...). 
